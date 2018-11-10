@@ -1,0 +1,28 @@
+PODS:
+  - Kingfisher (4.10.0)
+  - Marshal (1.2.7)
+  - TTTAttributedLabel (2.0.0)
+  - YoutubeKit (0.3.0)
+
+DEPENDENCIES:
+  - Kingfisher (= 4.10.0)
+  - Marshal
+  - TTTAttributedLabel
+  - YoutubeKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kingfisher
+    - Marshal
+    - TTTAttributedLabel
+    - YoutubeKit
+
+SPEC CHECKSUMS:
+  Kingfisher: 43c4b802d8b5256cf1f4379e9cd10b329be6d3e2
+  Marshal: ef480864a6af10a63f67be7e55bb5d8fe67a16d9
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+  YoutubeKit: a00e9eebcb3cfe26d7e233c5f8591dfd0b08f7a0
+
+PODFILE CHECKSUM: 40dbd4a022072b51619568ea16a0189a2dee7b08
+
+COCOAPODS: 1.5.3
