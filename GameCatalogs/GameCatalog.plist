@@ -1,0 +1,1719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>Beat Saber</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/620980/header.jpg?t=1528748839</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/620980/ss_f6ae6894285d97c95e1e1025af6c34946c374196.600x338.jpg?t=1528748839</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/620980/ss_3781a4244f18c9c08812c93dfa247f5bc59ad822.600x338.jpg?t=1528748839</string>
+			<string>pa4vrynwkwY</string>
+		</array>
+		<key>Note</key>
+		<string>Beat Saber is a unique VR rhythm game where your goal is to slash the beats (represented by small cubes) as they are coming at you. Every beat indicates which saber you need to use and also the direction you need to match. All the music is composed to perfectly fit the hand made levels. Our goal is to make players almost dance while cutting the cubes and avoiding obstacles. Each cut is strongly supported by great sound and visual effects to emphasize the rhythm.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/620980/Beat_Saber/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Arizona Sunshine</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/342180/header.jpg?t=1527508118</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/342180/ss_6245664dc1ef110b4b4b811be87dd26b43c2a5d3.600x338.jpg?t=1527508118</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/342180/ss_e7aa3e0181f151230597b9628873460041f76494.600x338.jpg?t=1527508118</string>
+			<string>l_gWDl_f6V8</string>
+		</array>
+		<key>Note</key>
+		<string>Зомби-апокалипсис в виртуальной реальности! &quot;Солнечная Аризона&quot; - это шутер от первого лица, созданный исключительно для виртуальной реальности и погружающий вас в постапокалиптический мир юго-запада Америки, кишащий зомби. 
+Надежда возвращается, когда вы слышите человеческий голос в радиотрансляции: есть, есть выжившие в этом раскаленном от жары постапокалиптическом штате Большого каньона! В своих отчаянных попытках найти людей вам придется пробиться сквозь орды зомби, охотящихся за вашим мозгом, а поможет вам в этом оружие, управляемое движениями вашего тела, скудный боезапас и расходные материалы, которые встретятся на вашем пути.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/342180/Arizona_Sunshine/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Audioshield</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/412740/header.jpg?t=1538782448</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/412740/ss_814eaed78e8ffc6453619333b3230e9b0f80103a.600x338.jpg?t=1538782448</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/412740/ss_a5e5620dc467e0239bb2e2919a15e1484f3e5797.600x338.jpg?t=1538782448</string>
+			<string>RMayj9D_uCQ</string>
+		</array>
+		<key>Note</key>
+		<string>Experience your entire music collection in VR. Audioshield puts you at the point of impact for every hit in your music. Beats glide in slowly for mellow parts of songs, then ramp up for intense parts of songs with cross-body, double-shield, and high-altitude hits.
+
+Audioshield uses an advanced version of Audiosurf 2&apos;s music analysis system to sync with any song from your collection.
+
+Every song has its own online leaderboard. Audioshield also supports local leaderboards to easily compete with friends during look-at-my-awesome-new-VR-system parties.
+</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/412740/Audioshield/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Journey Inside a Cell</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/451980/header.jpg?t=1484037241</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/451980/ss_60eeb91ce78447b2ad2b4d7241d09c496bfe986f.600x338.jpg?t=1484037241</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/451980/ss_f199068c001a9cfd805ff61de27dd2f6c88187ac.600x338.jpg?t=1484037241</string>
+			<string>XKbwmTG8chQ</string>
+		</array>
+		<key>Note</key>
+		<string>The Body VR: Journey Inside a Cell is an educational virtual reality experience that takes the user inside the human body. Travel through the bloodstream and discover how blood cells work to spread oxygen throughout the body. Enter one of the billions of living cells inside our body and learn how the organelles work together to fight deadly viruses.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/451980/The_Body_VR_Journey_Inside_a_Cell/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Belko VR: An Escape Room Experiment</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/600140/header.jpg?t=1535090382</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/600140/ss_30ec63d5331f1bc5e7a67fa273bb8c114b62e69f.600x338.jpg?t=1535090382</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/600140/ss_65d172514918cd397c9a32d8b1c588967d7a0f42.600x338.jpg?t=1535090382</string>
+			<string>3Os4vEtrITQ</string>
+		</array>
+		<key>Note</key>
+		<string>Exploring the themes in THE BELKO EXPERIMENT, the Belko VR – Escape Room Experiment provokes the question: “What does it take to survive at work?” Players are prompted to solve a series of challenging puzzles in order to escape from their office before a microchip in their head explodes.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/600140/Belko_VR_An_Escape_Room_Experiment//</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Bomb U!</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/523090/header.jpg?t=1501070066</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/523090/ss_74e211422fb408742fec100fab25a5713490f208.600x338.jpg?t=1501070066</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/523090/ss_944ba9fe6f9a680d17adc5a1f4627f31bc828b51.600x338.jpg?t=1501070066</string>
+			<string>qdwjL5sHXko</string>
+		</array>
+		<key>Note</key>
+		<string>Bomb U! is a VR PvP action game. You have to look and walk around as in reality to pick up items, use them to destroy enemy&apos;s ground and win the game. We got bombs, hammers and pistols in the game. More items and modes adding!</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/523090/Bomb_U//</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>The Brookhaven Experiment</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/440630/header.jpg?t=1522264180</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/440630/ss_72bb98fcd84bbf739f7584d8b8a589787fa9a750.600x338.jpg?t=1522264180</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/440630/ss_4149482d32890da7da28174d02b61395d2d5a898.600x338.jpg?t=1522264180</string>
+			<string>BPpFG2Q_V2I</string>
+		</array>
+		<key>Note</key>
+		<string>Что-то пошло не так. Совсем не так. Людей осталось всего ничего. Эти... твари, которые пролезли в дыру между измерениями после Эксперимента, убили почти всех. Вы не знаете, сколько еще времени у вас и у человечества. Но если у человека достаточно патронов и желание биться до последнего, то всегда есть шанс.
+            
+            Игроки с помощью оружия отбиваются от всё более яростных атак жутких монстров в попытке выяснить, почему мир покатился в пропасть, и остановить этот кошмар, если хватит сил.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/440630/The_Brookhaven_Experiment/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Bullet Sorrow VR
+</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/521950/header.jpg?t=1509753257</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/521950/ss_1b481b61dc72cd07f4df998b5d17865c410c12a0.600x338.jpg?t=1509753257</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/521950/ss_91d379243f8436203904c772c0adedefdebde454.600x338.jpg?t=1509753257</string>
+			<string>kkuoLyoQnC8</string>
+		</array>
+		<key>Note</key>
+		<string>Back to 2017, a radical research lab under S Corp had started a secret project, base on large number of clone subjects. They claimed &quot;The Second Evolution for Human Being&quot; as their dream.
+The secret project had achieve some success, created new type clones with specail genetic talent. However disaster happened after one researcher had accidentally overdosed the subjects----Most clones went ballistic and became infectious, then immediately the whole lab was abandoned and strickly isolated.
+13 years had past, other than the only one successfully evoluted clone, what else there could be...? 
+
+· Infinite Arena mode, a brand new map, carefully written darker story of &quot;S Corp&quot; ; 
+
+· Super gene buff system, enhance your weapon with secret gene power to smash the infected enemies.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/521950/Bullet_Sorrow_VR/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>BE THE HERO</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/744460/header.jpg?t=1539762923</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/744460/ss_dcfdc324873883310dcb7b43a52692b74c240cab.600x338.jpg?t=1539762923</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/744460/ss_34f1f72406068df02e1e79557accaf3347000048.600x338.jpg?t=1539762923</string>
+			<string>TNSBev94TFo</string>
+		</array>
+		<key>Note</key>
+		<string>Ever wanted to be as fast as the flash, as agile as spiderman, or as supreme as one punch man? Now&apos;s the time, time to Be the Hero! 
+Our mission was to create an experience that throws you into the extraordinary reality of a Hero, much like the heroes and heroines we grew up reading about in various manga, as Japanese.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/744460/BE_THE_HERO/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Candy Kingdom VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/525500/header.jpg?t=1513593606</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/525500/ss_5bbfee0a37c0a9d49e2f4fa53735a8a8cfa6b628.600x338.jpg?t=1513593606</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/525500/ss_506cc332fee3e1078f0a1035f6bf1144f906b178.600x338.jpg?t=1513593606</string>
+			<string>a_qSCqC-qNg</string>
+		</array>
+		<key>Note</key>
+		<string>Requires an HTC vive headset !
+
+Magical Candy Kingdom is a fun candy shooting game for all ages! 
+
+Once upon a time in a magical Candy kingdom, there was a king named King Candy and he had so many candies that his whole kingdom was enjoying them every day! 
+On a glorious day, his army of candy cookies opened the door for a cute little fairy, who was lost and desperate to find a new place that she could call home. 
+
+After hearing all the stories that the fairy was sharing with him, he felt that he needed to help her out. Without further thinking he offered the fairy to stay in his kingdom as long as she wanted and enjoy his candies.
+
+At this point, he didn’t knew that the cute little fairy was actually a witch in disguise, wanting to take all his candy and his kingdom. 
+
+The king was so interested in the fairy, that he invited her daily to his castle, to hear all the stories, which the fairy could tell him. </string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/525500/Candy_Kingdom_VR/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>A Chair in a Room : Greenwater</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/427760/header.jpg?t=1540493439</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/427760/ss_3d5ac913723b8505cb6b1077a760b9584f027617.600x338.jpg?t=1540493439</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/427760/ss_21ade50ab20bf4ea25fe000fa41959f534fd168d.600x338.jpg?t=1540493439</string>
+			<string>XyyrIrTdaYw</string>
+		</array>
+		<key>Note</key>
+		<string>New locomotion options, updated music, graphics and many more optimisations available in a free update.
+
+A Chair in a Room: Greenwater is a tense Virtual Reality horror game set in America’s Deep South. Drawing on elements of Southern Gothic and using settings of derelict towns, run-down motels and murky, decaying swamps, A Chair in a Room will take you through an investigation of institutional corruption, religious immorality and murder, which can only be unlocked by searching deep within your own psyche. 
+
+A calibration room will allow you get comfortable in VR but once you call the elevator, you begin your story as patient no. 6079 in The Greenwater Institute, with no recollection of who you are or what you did to be here. Dark visions bring your lucidity into question and only the doctor’s supply of medication can suppress those who wish to haunt you. 
+
+Gameplay is a seamless weave of interaction and narrative that wraps exploration and tense horror in rich environmental storytelling to create something that is unique to VR. 
+
+The story is broken down into six chapters of around 20 to 30 minutes in length to allow for intervals in play while enjoying the story.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/427760/A_Chair_in_a_Room__Greenwater/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Covert Syndrome</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/589460/header.jpg?t=1515450141</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/589460/ss_4b0c26b73be08646b140da133536a49791a4ac48.600x338.jpg?t=1515450141</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/589460/ss_4dd659ce51108d7259d7b36ced59a0045848228f.600x338.jpg?t=1515450141</string>
+			<string>huXWvb40M9U</string>
+		</array>
+		<key>Note</key>
+		<string>Welcome to Covert Syndrome!
+
+Covert Syndrome is a free to play Coop corridor shooter with a focus on unscripted AI and fast tough combat. 
+
+Created as a prototyping project we wanted to release it to the community so people can experience Co-op VR for free. 
+
+The game consists of 6 combat zones with each zone having multiple waves of enemies. Player take possession of a mechanized agent with a mission to eliminate all enemies while minimizing unnecessary usage of energy. (You energy is both your health AND your ammo.. shoot wisely!)
+
+There is also a firing range where you can practice acquiring and eliminating targets.
+
+After a round players can travel back to the lobby and check out how many credits they earned for their mission. (Best scores are recorded in steam leaderboard)
+
+Don&apos;t forget to read the instructions board at the entrance! it will make your experience much more enjoyable!</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/589460/Covert_Syndrome/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Cyberpong</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/462000/header.jpg?t=1494513245</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/462000/ss_ba6351a04b221de1b2bac036669a34494a13072c.600x338.jpg?t=1494513245</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/462000/ss_023e1b8db293e596b8f0bee10ed74bc9954a3c91.600x338.jpg?t=1494513245</string>
+			<string>FuFo1MCWABo</string>
+		</array>
+		<key>Note</key>
+		<string>Enter a realm of cyberspace where hitting digital orbs can gain you ultimate glory! In this retro styled game you are given two paddles to prove what you&apos;re made of. Harness your skills in single player mode and then face off against your friends in multiplayer matches!</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/462000/Cyberpong/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Deadly Hunter VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/594490/header.jpg?t=1500949192</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/594490/ss_9168ebf7a645940c018c9c871eaa11c59f4bf794.600x338.jpg?t=1500949192</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/594490/ss_5e44970ea824ee89c1e69f9f77d4e5ada525bf95.600x338.jpg?t=1500949192</string>
+			<string>wmbE7bo9JL0</string>
+		</array>
+		<key>Note</key>
+		<string>Take the role of a Deadly Hunter in this first person defense game!
+The Orcs invaded our homeland but we defeated them. However, there are still small bands of Orcs lingering in a number of our strongholds. As a renowned hunter, your task is to eliminate the remaining Orc troops and to liberate all strongholds.
+Amazing Immersive Experience
+Battling monsters is brutal. As their archenemy, you must fight their axes and spears. 
+Use your body to dodge about and find ways to blow the enemy’s head off, or you’re next to fall!
+Rich Game Content
+Over four (4) hours’ worth of glorious gaming experience with over 20 scenes and exciting challenges! 
+Monster variety like no other: Find over 10 kinds including Berserker, DarkSpear, Shieldon, SmokeLord, and Ladybug and find the best ways to annihilate them!
+Exciting future content for all types of players: The Escort Mode and Multiplayer Mode are coming soon.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/594490/Deadly_Hunter_VR/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Death Dojo</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/544590/header.jpg?t=1478653837</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/544590/ss_36afa9d617b97bb0679a028e0ec0bd975b2d2436.600x338.jpg?t=1478653837</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/544590/ss_8c4e8a60eeb1480dce67baaaecfdb76c354e1a13.600x338.jpg?t=1478653837</string>
+			<string>PuVAs0KBzGE</string>
+		</array>
+		<key>Note</key>
+		<string>Enter Death Dojo... A one-on-one death match to become the ultimate samurai.
+
+Real battle is scary. Other games may lead you to believe you can slash through hoardes of foes with ease. This is not true. To beat your enemy you must face your fears. In Death Dojo you must face your nightmare and defeat him.
+You have nothing but a Katana to defend yourself, the enemy comes quietly and quickly, and you must defeat him with a swift blow to the neck. Do you have what it takes to beat him?
+
+Only Time Will Tell.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/544590/Death_Dojo/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Detached: Non-VR Edition</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/848410/header.jpg?t=1532429037</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/848410/ss_93a2b88dc7200c3a842f452f5ccc85b1ec869e6f.600x338.jpg?t=1532429037</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/848410/ss_b1910aa65bca57a06c67e79a87775817541e8c2d.600x338.jpg?t=1532429037</string>
+			<string>knPOqB9EW_I</string>
+		</array>
+		<key>Note</key>
+		<string>Detached, a suspenseful interstellar duel that demands tactics and skill to survive, is now available in a non-VR version! Separated from your unit, you must make smart decisions and race to safety in this visceral exploration of deep space.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/848410/Detached_NonVR_Edition/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Dimensional Rift</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/580630/header.jpg?t=1491386399</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/580630/ss_07e58300a4c4709c8dfce845eba2629730b892ca.600x338.jpg?t=1491386399</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/580630/ss_b26f4b17c4728c5cab9e16948310668c38b296bb.600x338.jpg?t=1491386399</string>
+			<string>97DHW0inYtc</string>
+		</array>
+		<key>Note</key>
+		<string>Dimensional Rift is a Virtual Reality arcade game with intense hand waving. Fight your way through waves of hostile spheres, deadly laser and devastating bombs. Survive for as long as you can and compete on the leaderboards!</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/580630/Dimensional_Rift/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Don&apos;t Knock Twice</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/328590/header.jpg?t=1541673268</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/328590/ss_591448cacc848ca1a2edc417be4bc7b09b086ca6.600x338.jpg?t=1541673268</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/328590/ss_6c910484c736305b7bae94dc76efc63f8f3dff19.600x338.jpg?t=1541673268</string>
+			<string>ORMiMSvMx7c</string>
+		</array>
+		<key>Note</key>
+		<string>Don&apos;t Knock Twice (Не стучи дважды) — игра-хоррор от первого лица, основанная на городской легенде, от которой стынет кровь и цепенеет сознание. Чтобы спасти свою покинутую дочь, терзаемая чувством вины мать должна раскрыть чудовищную правду городской легенды о мстительной демонической ведьме.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/328590/Dont_Knock_Twice/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Downward Spiral: Prologue</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/574940/header.jpg?t=1519146735</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/574940/ss_134c1e2b94f6632a8bcfd7f3df26543418d06a43.600x338.jpg?t=1519146735</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/574940/ss_b70d853688ccf3aafd66c83eb63586e9cb45b890.600x338.jpg?t=1519146735</string>
+			<string>lX4QM8qKbAk</string>
+		</array>
+		<key>Note</key>
+		<string>Downward Spiral: Prologue is a mysterious and atmospheric zero gravity thriller powered by innovative, free movement in VR without motion sickness.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/574940/Downward_Spiral_Prologue/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>DreamLand</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/498510/header.jpg?t=1467957909</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/498510/ss_c8df4083ede5bcb0d49f7b2a8eaa90ce45140629.600x338.jpg?t=1467957909</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/498510/ss_674f9939098d04237e2e391ea179ebaba43c814e.600x338.jpg?t=1467957909</string>
+			<string>xVkozKE8E0I</string>
+		</array>
+		<key>Note</key>
+		<string>Summary: “DreamLand” is an immersive VR game, made by AAA team base on htcVIVE with Unreal Engine. With the VR device, the player could pass through the Portal of Astral Spirit, and explore the mystical dreamland by time travel.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/498510/DreamLand/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Dreams of Dali</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/591360/header.jpg?t=1519064857</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/591360/ss_f5692d85c71af3342e38f35412927beec11c1f6e.600x338.jpg?t=1519064857</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/591360/ss_3cf70f2a1beb6a66be9d186696058514199901b9.600x338.jpg?t=1519064857</string>
+			<string>JNHoBreKagY</string>
+		</array>
+		<key>Note</key>
+		<string>Immerse yourself in the world of the Surrealist master like never before in this encounter, venturing into the towers, peering from them to distant lands and discovering surprises around every corner.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/591360/Dreams_of_Dali/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Elven Assassin</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/503770/header.jpg?t=1539866888</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/503770/ss_70ad5da84cbc5cec3f70f28e46b6567fffc4f84b.600x338.jpg?t=1539866888</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/503770/ss_b73ce654002384c157bf77bc3469bffb12fe8648.600x338.jpg?t=1539866888</string>
+			<string>MdR1C7C4JMg</string>
+		</array>
+		<key>Note</key>
+		<string>Take a bow and kill hordes of orcs in the epic town defense game. You can play alone to conquer the leaderboards or unite with other assassins in online co-op mode. PS. Be careful to avoid massive axes thrown at you by orc warriors.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/503770/Elven_Assassin/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Endless Night - Alpha</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/547750/header.jpg?t=1481388321</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/547750/ss_424740a1d1c7cf5d5f544f7aae33656e79cad597.600x338.jpg?t=1481388321</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/547750/ss_eba1bf1864378dbb83c7d21c9a3edb6ce0a0b4fb.600x338.jpg?t=1481388321</string>
+			<string>i5LpgjZBYhQ</string>
+		</array>
+		<key>Note</key>
+		<string>Endless Night is a room-scale virtual reality experience built for the HTC Vive. 
+
+This game is in early alpha, and is currently a wave-based shooter that will get your heart pumping and your adrenaline roaring. Exploration and puzzle-solving elements are in development, and will be made available once they are ready. Until then, enjoy the free alpha and let us know what you think! Update are released every two weeks, so tell us what you&apos;d like to see.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/547750/Endless_Night__Alpha/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Epic Roller Coasters</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/787790/header.jpg?t=1539179961</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/787790/ss_047f14326c13e96c601f49a1af8999bf7e86c77c.600x338.jpg?t=1539179961</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/787790/ss_4b144a2185916bc4e70a720289a35cbf2bfa8193.600x338.jpg?t=1539179961</string>
+			<string>p_PhArRIwB4</string>
+		</array>
+		<key>Note</key>
+		<string>In Epic Roller Coasters you&apos;ll get the same feeling of a real roller coaster with a high level graphics, physics-based simulation. You&apos;ll go up and down seeing everything around you with our long range vision capabilities!</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/787790/Epic_Roller_Coasters/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>EVEREST VR™</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/384750/header.jpg?t=1510656404</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/384750/ss_7dcce873dc09a57107aa0a3d00786a24d12fcc61.600x338.jpg?t=1510656404</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/384750/ss_570aca1ac3a3bc88510de9e78a9928bd2b7fe6a5.600x338.jpg?t=1510656404</string>
+			<string>iTlnm8Jn6_c</string>
+		</array>
+		<key>Note</key>
+		<string>Experience what it feels like to climb Mount Everest through a sequence of immersive first person locations as you strive to reach the top of the world. Incomparable visual fidelity combined with player agency in a VR journey that feels both real and emotionally stunning.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/384750/EVEREST_VR/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>EVERSPACE™</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/396750/header.jpg?t=1541083750</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/396750/ss_275df9806519b7ea0b425fb30e89064fe1630ad0.600x338.jpg?t=1541083750</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/396750/ss_5832d8465bb172d3a05b554138cf12db9fde56a6.600x338.jpg?t=1541083750</string>
+			<string>hOwNn0wObSc</string>
+		</array>
+		<key>Note</key>
+		<string>EVERSPACE™ – однопользовательский космический шутер. Элементы roguelike здесь сочетаются с современной графикой и увлекательным сюжетом. Вы отправитесь в опасное путешествие по изменчивой, красочной и полной сюрпризов вселенной. Вам придется оттачивать навыки, накапливать опыт и учиться импровизировать, чтобы выжить и разгадать тайну своего происхождения. Вы встретитесь с интересными персонажами, каждому из которых есть что рассказать о вас. Каждая попытка будет увлекательной, ведь вы постоянно будете попадать в совершенно разные ситуации. Каждая часть игры запомнится вам надолго, каждая подарит немало особенных, полных смысла моментов. Знайте, что, несмотря на летные навыки, вы все равно будете погибать. Но не волнуйтесь! Смерть здесь – лишь начало нового большого приключения.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/396750/EVERSPACE/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Fancy Skiing VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/512080/header.jpg?t=1470800980</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/512080/ss_84f332a469a27e14514426ef50e8e3ef2f553e86.600x338.jpg?t=1470800980</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/512080/ss_84f332a469a27e14514426ef50e8e3ef2f553e86.600x338.jpg?t=1470800980</string>
+			<string>rvtm8T14BRE</string>
+		</array>
+		<key>Note</key>
+		<string>Fancy Skiing is developed by HashVR Studio built with the Unity Engine.The game&apos;s structure is based on real skiing that players use the handles just as ski poles to get power and lean left or right to control the direction, which brings players a strong immersion. Furthermore, we add a lot of fancy elements, like leaping grand canyons and hunting deer. While 
+skiing, players try their best to avoid obstacles including dynamic ones to ski as far as they can and speed also plays an import role in your final score.
+You can sit down to play the game if you feel a bit sick.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/512080/Fancy_Skiing_VR/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Final Approach</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/380670/header.jpg?t=1510949215</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/380670/ss_d62736502e5b870a71da3cb9304b95d5912b03a8.600x338.jpg?t=1510949215</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/380670/ss_2332c9c6720b2f12ae1de049b00ca759868dbf6c.600x338.jpg?t=1510949215</string>
+			<string>tGvCA_C7tio</string>
+		</array>
+		<key>Note</key>
+		<string>Two Games for the Price of One- Final Approach: Pilot Edition includes a copy of the original Final Approach for Tracked Motion Controllers. If you already purchased the original Final Approach, check your library for your free copy of Final Approach: Pilot Edition 
+
+Take control of the skies like never before in a full Virtual Reality world! Airplanes on fire, commuter aircraft low on fuel, mid-air collisions, emergency rescues, and military exercises all need your immediate attention. Manage your aircraft and airports in &quot;God Mode&quot; as you tower over large metropolitan airports, tropical islands, and towering cities. Path your aircraft to safety, avoiding air traffic, fierce thunderstorms, and perilous landscapes. Get those planes refueled, repaired, and back in the air as fast as possible. You will need nerves of steel as you zoom down to &quot;Toy Mode&quot; to fight raging aircraft fires, man the guns and missiles of the battleship, and the worst task of all...Luggage Sorting. Don&apos;t waste any time, the skies are full of emergencies that only you can manage. Did we mention the Alien Invasion? Welcome to Final Approach!</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/380670/Final_Approach/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>S.K.I.L.L. - Special Force 2 FPS (Shooter)</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/286940/header.jpg?t=1538992368</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/286940/ss_2cf90e0c504ffba271d2f52e8c9abc33c78f08c0.600x338.jpg?t=1538992368</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/286940/ss_bfaadd3ef419dbda5a02eccdb7f6baffa4b9ee8c.600x338.jpg?t=1538992368</string>
+			<string>-LC-fEJVC1k</string>
+		</array>
+		<key>Note</key>
+		<string>“To sum it up: balanced gameplay, a realistic graphics and sound setting, various thrilling game modes and maps provide the basis for this competitive FPS that some might call next-gen. And like most free-to-play online FPS SF2 is highly competitive. It’s all about competition and improving your skills. Beating the others as a single player or winning a match with your team. SF2 has got massive potential to become a new reference as f2p shooter in eSports.”
+4.52/5 – FPS REPORT
+
+“S.K.I.L.L. - Special Force 2 is a valid free-to-play shooter which puts a lot of emphasis on community and clans. Even if it&apos;s not the best shooter around regarding graphics and sounds, it manages to offer a complete and fun overall gameplay experience and some pretty unique and fun game modes. With its simple graphics and solid mechanics, combined with a fair in-game shop and a complete clan system, the game has the right tools to offer a nice competitive scene for hardcore players and an enjoyable environment for new players as well. If you are a fan of online FPS and want to try something new without going too far away from your usual games, S.K.I.L.L. - Special Force 2 could be the right choice.”
+80% – Gamecity</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/286940/SKILL__Special_Force_2_FPS_Shooter/?snr=1_7_7_15</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Fruit Ninja VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/486780/header.jpg?t=1494806396</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/486780/ss_80e5edcd30b1d45ba036fe541c8e2397ac4f06d9.600x338.jpg?t=1494806396</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/486780/ss_7ab2cd0b4965b780039ca52cc7f47225d6a72371.600x338.jpg?t=1494806396</string>
+			<string>hPY4TRRHwZc</string>
+		</array>
+		<key>Note</key>
+		<string>Самая увлекательная и интересная игра теперь и в виртуальной реальности. Встречайте новое воплощение игры The Fruit Ninja в привычном додзё и не забывайте: фрукты сами себя не нарежут!
+
+Откройте для себя новые измерения оригинальной игры, любимой миллионами людей во всем мире! Fruit Ninja VR гарантирует вкусный и «сочный» геймплей в рамках виртуальной реальности для всех игроков, независимо от возраста и уровня навыков. 
+
+Добро пожаловать во вселенную Fruit Ninja! Рубите фрукты, летящие в вас со всех сторон, только смотрите - не заденьте бомбу! А если вам наскучила двухмерная картинка, отправляйтесь осваивать новое измерение: рубить, колоть и резать в режиме виртуальной реальности. Комбинируйте приемы, отбивайте бомбы одним взмахом руки, боритесь за место в таблице рекордов или расслабляйтесь в режиме «Дзен» - играйте со смаком, скучно не будет никому!
+
+Если вы ищете, где бы оторваться по полной, – выбирайте Fruit Ninja VR, тем более что на подходе новые уровни и новые возможности!</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/486780/Fruit_Ninja_VR/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Gnomes &amp; Goblins (preview)</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/490840/header.jpg?t=1524161663</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/490840/ss_992e679d7fbc3c6bd7de273f87f0120ed615ae48.600x338.jpg?t=1524161663</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/490840/ss_4a9f1a3f1298220ea2f95d818840265836564dcc.600x338.jpg?t=1524161663</string>
+			<string>Jpm7UG3ixnY</string>
+		</array>
+		<key>Note</key>
+		<string>Gnomes &amp; Goblins is an original production from Wevr (theBlu) that offers players a unique opportunity to explore an enchanted VR world created by Jon Favreau (director of The Jungle Book, Chef, Iron Man). In this preview, players meet and develop a personal relationship with an enigmatic resident of this interactive fantasy, taking a first step into the lucid dream of Gnomes &amp; Goblins and its many realms and denizens.
+
+Gnomes &amp; Goblins is developed using Wevr’s VR character AI framework and is available on the Wevr Transport network. Gnomes &amp; Goblins is co-produced and co-published by Wevr and Reality One.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/490840/Gnomes__Goblins_preview/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Goalie Challenge VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/588290/header.jpg?t=1521120949</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/588290/ss_d386878e6e88b78430a01ebc02c9db2fbee6fae6.600x338.jpg?t=1521120949</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/588290/ss_039321859c8397ff95333c6e8b24d2a47f8ddb6d.600x338.jpg?t=1521120949</string>
+			<string>Bv3WuwNgk8A</string>
+		</array>
+		<key>Note</key>
+		<string>Feel the whizz of the puck fly by your skull in this fun and fast-paced goalie VR simulator. Fully immersive with surround sound and haptic vibration for a realistic hockey experience. Play against friends with new local shooter mode.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/588290/Goalie_Challenge_VR/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>GORN</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/578620/header.jpg?t=1535121305</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_73cfe2650690819db06eb2e1f465ab46064d2121.600x338.jpg?t=1535121305</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_b3b1b801adbe2b8444df24e9634b0f95644fcbc5.600x338.jpg?t=1535121305</string>
+			<string>FTKUPHtrpFg</string>
+		</array>
+		<key>Note</key>
+		<string>GORN is a ludicrously violent VR gladiator simulator, made by Free Lives, the developers of Broforce and Genital Jousting. Featuring a unique, fully physics driven combat engine, GORN combatants will be able to creatively execute their most violent gladiatorial fantasies in virtual reality. Savagely strike down an infinite supply of poorly-animated opponents with all manner of weapons – from swords, maces, and bows to nunchuks, throwing knives, massive two-handed warhammers or even your blood-soaked bare hands. The only limits to the carnage are your imagination and decency, in the most brutal and savage VR face-smashing game ever produced by man.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/578620/GORN/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Guns&apos;n&apos;Stories: Bulletproof VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/685690/header.jpg?t=1537460010</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/685690/ss_cbfdab0d75ca5420d0d8abcab2cf4a93f67f2000.600x338.jpg?t=1537460010</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/685690/ss_ced63a1adfb73866bcab643f16b20bea9b6f1c0b.600x338.jpg?t=1537460010</string>
+			<string>5We8WM1E0Tg</string>
+		</array>
+		<key>Note</key>
+		<string>Guns’n’Stories: Bulletproof это динамичный VR-Вестерн шутер, который полностью и без остатка погружает игроков в атмосферу странного Дикого Запада. Следуя по запутанному сюжету, вы столкнетесь с толпами грозных, но комичных врагов и сразитесь с Большими Боссами.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/685690/GunsnStories_Bulletproof_VR/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Guns&apos;n&apos;Stories: Preface VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/716260/header.jpg?t=1537515534</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/716260/ss_de8997e06ee5488911cd4a20bbbebba75a229b6d.600x338.jpg?t=1537515534</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/716260/ss_d13d2657add66efcc62b6a56ce54524093ee38da.600x338.jpg?t=1537515534</string>
+			<string>-DXNvLE3GWk</string>
+		</array>
+		<key>Note</key>
+		<string>Наденьте шлем VR, возьмите пистолет и будьте готовы ко всему! Вы погружаетесь в непредсказуемую историю! В воспоминания своего деда, который когда-то был охотником за головами! Проживите заново дни его боевой славы, полные приключений и неожиданностей. Однако, честно говоря, убийца на пенсии переходит все границы в своих историях! Чем дольше вы слушаете его, тем более странными кажутся эти приключения. Внезапно вас окружают полчища невероятных врагов! Черный юмор, стимпанк и ковбои - всего лишь малая часть мира GUNS`N`STORIES.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/716260/GunsnStories_Preface_VR/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Holopoint</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/457960/header.jpg?t=1515603996</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/457960/ss_fd62e3ff1bccff36072f759c515ab7dcb7a64bea.600x338.jpg?t=1515603996</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/457960/ss_9d8cf58679e89ebcc9171181c88cb855ba45cf9e.600x338.jpg?t=1515603996</string>
+			<string>ilTubZ4To0g</string>
+		</array>
+		<key>Note</key>
+		<string>Holopoint is pure archery madness. Fight your way through waves of responsive targets, samurai, and highly dangerous ninjas - all while drawing, nocking, and shooting your arrows as quickly as possible. 
+WARNING: THIS GAME GETS INTENSE. REMEMBER TO BREATH AND TAKE BREAKS.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/457960/Holopoint/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>International Space Station Tour VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/797200/header.jpg?t=1531731281</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/797200/ss_2e494244ead018c43e81e4867069158ffae934de.600x338.jpg?t=1531731281</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/797200/ss_36e2e544c2962e98ae3f67bed85536dac3c1e295.600x338.jpg?t=1531731281</string>
+			<string>F5hVSc0ErA4</string>
+		</array>
+		<key>Note</key>
+		<string>Embark on a mind-blowing VR journey to one of the most advanced &apos;miracles&apos; of modern technology to have ever been built by mankind.
+
+Join astronaut Samantha Cristoforetti from the European Space Agency (ESA) as you step aboard the International Space Station. Guided by the holder of the record for the longest uninterrupted spaceflight for a European astronaut you will learn about the inner-workings of the International Space Station. Moving between 8 modules you will uncover over 40 key areas of the space station that serve as the living quarters and science laboratory for an international crew of astronauts and cosmonauts. Gain an insiders view of what it is like to live and work onboard the longest, continually inhabited space station to orbit Earth.
+
+This experience has been created by The House of Fables. ESA is not the author of this app and holds no liability for the experience. ESA holds all rights to the photos and videos used.
+
+The software is available on the following platforms: Oculus, Steam, Windows Store, Google Play, Viveport.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/797200/International_Space_Station_Tour_VR/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Job Simulator</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/448280/header.jpg?t=1524002048</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/448280/ss_ff7151cab14752f2b6501c31c3c79235b79cc45a.600x338.jpg?t=1524002048</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/448280/ss_a1cd6f60b87da82ac6e92dee02dcb0b3aa8f5919.600x338.jpg?t=1524002048</string>
+			<string>8H9ieJk8AJ4</string>
+		</array>
+		<key>Note</key>
+		<string>A tongue-in-cheek virtual reality experience for HTC Vive. In a world where robots have replaced all human jobs, step into the &quot;Job Simulator&quot; to learn what it was like &apos;to job&apos;.
+Key Features!
+Throw a stapler at your boss!
+Learn to &apos;job&apos; in four not-so historically accurate representations of work life before society was automated by robots!
+Use your hands to stack, manipulate, throw, and smash physics objects in an inexplicably satisfying way!
+Aggressively chug coffee and eat questionable food from the trash!
+Use the confluence of decades of VR research to accurately track your every movement to sub-millimeter precision so that you eat VR donuts, of course!
+Able to juggle tomatoes in real life? Do it in VR! Unable to juggle? There&apos;s no cleanup required in VR!
+Gain valuable life experience by firing new employees, serving slushy treats, brewing English tea, and ripping apart car engines!
+Have a comfortable VR experience where vomiting is solely a gameplay mechanic, not a side-effect!
+*NEW!* Work the never-ending night shift with the new Infinite Overtime mode!
+
+A VR-Only game!</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/448280/Job_Simulator/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Gnomes &amp; Goblins (preview)</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/341800/header.jpg?t=1534192446</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/341800/ss_55f22f9996c327c281d241ed09d43c74337d7e30.600x338.jpg?t=1534192446</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/341800/ss_5c91ac24fd96c14597bc11672c5b21556b436d4c.600x338.jpg?t=1534192446</string>
+			<string>hqelfBKuiic</string>
+		</array>
+		<key>Note</key>
+		<string>In Keep Talking and Nobody Explodes, one player is trapped in a room with a ticking time bomb they must defuse. The other players are the “Experts” who must give the instructions to defuse the bomb by deciphering the information found in the Bomb Defusal Manual. But there’s a catch: the Experts can’t see the bomb, so everyone will need to talk it out – fast!
+
+Rounds are fast-paced, tense, occasionally silly, and almost always loud. Everybody has a role to play whether they are defusing the bomb or deciphering information from the manual. 
+
+Puzzle solving and communication skills – and maybe a few friendships – will be put to the test as players race to defuse bombs while communicating quickly, clearly, and effectively.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>The Lab</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/450390/header.jpg?t=1510766272</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/450390/ss_62690ec83252d1699996f4d248a005eb27c9702d.600x338.jpg?t=1510766272</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/450390/ss_b297c61cdc62c206561fa5c194ec24d179981918.600x338.jpg?t=1510766272</string>
+			<string>ASVku-48N8Q</string>
+		</array>
+		<key>Note</key>
+		<string>Set in a pocket universe of Aperture Science, The Lab offers a wide range of ways to enjoy VR, all in one application. 
+
+Slingshot
+Begin your career as a Calibration Trainee by recklessly destroying everything in the Aperture Storage Annex using the Core Calibration slingshot.
+
+Longbow
+Use your archery skills to defend your noble castle gate from a rampaging but adorable and equally noble horde of attackers.
+
+Xortex
+Are you a bad enough dude to become a Xortex ace? Relive the golden era of gaming -- only this time, it&apos;s all around you.
+
+Postcards
+Visit exotic, far-off locales from the comfort of your own head.
+
+Human Medical Scan
+Explore the intricate beauty of the human body through a highly detailed model created from a series of CT medical scans.
+
+Solar System
+Why watch shows about the vast majesty of space when you can jump in and see it for yourself? Have educational space-fun while putting Neil Degrasse-Tyson out of business.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/450390/The_Lab/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Lightblade VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/477270/header.jpg?t=1470089258</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/477270/ss_1eb22bc56b307c169f228b0f7cb8e9dfba5cbfa5.600x338.jpg?t=1470089258</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/477270/ss_97bb35b57430fe01de7966c2f45450d3e4393d75.600x338.jpg?t=1470089258</string>
+			<string>LVzrRI688WU</string>
+		</array>
+		<key>Note</key>
+		<string>Lightblade VR is a virtual reality training simulation for self-illumintated plasma blades. This is a childhood dream come true! Get trained by your personal robot and deflect all incoming laser beams!
+
+Top features:
+• Fight with one or two blades
+• Master four different training modes and extra challenges
+• Unlock five blade colors
+• Unlock four hilt variations
+• Stunning 3D visuals
+• Immersive fighting sounds
+• Beautiful minimalistic user interface
+• The latest series of training robot
+• Fight another blade master in the Desert Temple mission
+
+This is a fan-made game without any in-app purchases or advertising.
+
+DISCLAIMER
+Lightblade VR is not affiliated with, authorized or endorsed by, or in any way officially connected with, Hasbro, Inc., Lucasfilm Ltd., The Walt Disney Company, Disney Enterprises, Inc., or any of their affiliates.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/477270/Lightblade_VR/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Onward</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/496240/header.jpg?t=1541734329</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/496240/ss_22b9044da88ac8c9a1d929d6e9f2cbc215d56eb1.600x338.jpg?t=1541734329</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/496240/ss_94fde8d6c5adaeebd8892a8b3c7a0168762210d8.600x338.jpg?t=1541734329</string>
+			<string>sp7xcZPzWGE</string>
+		</array>
+		<key>Note</key>
+		<string>Onward is a Mil-Sim paced tactical multiplayer shooter, being developed for virtual reality head mounted displays. Players will use coordination, communication, and marksmanship skill to complete objectives in online infantry combat. With dynamic time of day, weather effects, and multiple environments and scenarios, no skirmish will feel the same. With limited respawns, no HUDs, and no crosshairs, players will need their wits and combat skills to survive.
+
+Overview:
+5v5 online multiplayer
+Solo/Coop vs AI
+30 different weapons
+Artifical locomotion
+Objective based gamemodes
+
+
+Become fully Immersed in the firefight.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/496240/Onward/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Pavlov VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/555160/header.jpg?t=1531839731</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/555160/ss_433b8e083188b361e8d1b9b5332b8d7cee23776f.600x338.jpg?t=1531839731</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/555160/ss_c20cfa6e275129d8c6fe55b8a80b3ae3122896d3.600x338.jpg?t=1531839731</string>
+			<string>KL3YIde0e84</string>
+		</array>
+		<key>Note</key>
+		<string>Pavlov is a multiplayer shooter for the HTC Vive.
+
+Features
+Dedicated Servers
+Competitive Search And Destroy game mode
+Casual fast-paced game modes
+Bots
+Matchmaking
+Offline/Practice mode
+Voice Chat
+Touchpad and OOB locomotion
+
+OOB Locomotion
+OOB stands for &quot;out of body&quot;, a teleport variation without actually teleporting, your &quot;avatar&quot; moves into the target location while you snap every half a second to it. This works great for people who are prone to motion sickness without breaking the game for other people, this means you can play with regular players.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/555160/Pavlov_VR/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Poly Runner VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/462910/header.jpg?t=1461103842</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/462910/ss_fba13017d252dca5a8d4609a2adc21e966cf8db6.600x338.jpg?t=1461103842</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/462910/ss_3c97cf1f78a4e4b643add346fefa1c45bcd28b12.600x338.jpg?t=1461103842</string>
+			<string>cRue-6puarI</string>
+		</array>
+		<key>Note</key>
+		<string>Try your hand at the VR spaceflight challenge reviewers have dubbed “not a hurl fest!” Enter a world full of immersive alien landscapes through which you must navigate at high speeds, using lightning-fast reflexes to score points and earn your rep as the ultimate starfighter pilot. How long can you survive? 
+
+PolyRunner VR is an addictive, high-quality experience that tests your skills against an other-worldly, ever-changing landscape rather than testing your ability to maintain control of your stomach. This engaging virtual world offers more interesting, challenging terrain the further you progress. All the while, you can collect bonus points for your precision by navigating through checkpoints and utilizing boosts to give you an extra edge. The intuitive controls make it easy for anyone to compete in this spaceship runner, but mastering flight skills is a feat that will earn you a place among the top guns and make you worthy of a personal theme song that would inspire jealousy in any maverick pilot. Will you accept the challenge?</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/462910/Poly_Runner_VR/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Power Link VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/510130/header.jpg?t=1484071376</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/510130/ss_8a8175bf04b41033186f3f1d2e83df4fe7986fa2.600x338.jpg?t=1484071376</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/510130/ss_823888519644751651547d7cfffd801d2a5cfbc4.600x338.jpg?t=1484071376</string>
+			<string>NEvqSz7TnHM</string>
+		</array>
+		<key>Note</key>
+		<string>Hold your breath and experience this intensive game in Virtual Reality World!!!
+In a room on fire and try to take the metal piece out of mazes without it touching. Keep your hand stable and don’t be nervous. You can make it!
+
+The Power Link game reforms the traditional wire loop game in a rather creative way. In virtual world, we can design mazes unlimitedly which makes the game more interesting and exciting.
+
+Intro:
+Pick up the metal piece with your plier and move along the way. Be careful and don’t touch the copper line or you will get electric shock.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/510130/Power_Link_VR/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>The Price of Freedom</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/561080/header.jpg?t=1530128177</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/561080/ss_151bbc571892fc5f6e188c52361e5090ff0b685f.600x338.jpg?t=1530128177</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/561080/ss_be0f62f6e189b585c0782a073a97753bd444f25d.600x338.jpg?t=1530128177</string>
+			<string>2_xfSeEbXi0</string>
+		</array>
+		<key>Note</key>
+		<string>January, 1960. The US is deep in Cold War with Russia, and nuclear war seems eminent, when Benjamin Miller breaks into CIA research facilities, stealing valuable Chemical Weapons research. Your mission: assassinate Miller and protect this information from falling into enemy hands. What seems like a straight forward mission soon takes a dark turn as you learn the truth behind Miller&apos;s motives. 
+Become part of the story in this thrilling interactive Room-Scale VR narrative, inspired by true events.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/561080/The_Price_of_Freedom/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Gnomes &amp; Goblins (preview)</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/808550/header.jpg?t=1522947711</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/808550/ss_a214b410a13709f5f9ded4156f6aca9868b5c9c4.600x338.jpg?t=1522947711</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/808550/ss_5dc7315b49857d7301f6424425548e92eb3ff50c.600x338.jpg?t=1522947711</string>
+			<string>f8NmgjMGqfU</string>
+		</array>
+		<key>Note</key>
+		<string>Big meets bigger in Project Rampage VR, the official virtual reality game for the movie Rampage starring Dwayne Johnson - in theaters April 20! Using CRISPR technology, create monster mutations in Energyne’s lab and unleash destruction across the world. Play as George, Ralph and Lizzie as you run, climb, throw and smash your way through Chicago and Paris! Complete challenges and rack up points as you destroy your surroundings.
+Key features
+Play as George, Ralph and Lizzie in First Person VR
+Destroy two cities: Chicago and Paris
+Use CRISPR technology in the Energyne lab to create new genetically mutated monsters</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/808550/Project_Rampage_VR/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>The Ranger: Lost Tribe</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/673070/header.jpg?t=1512370606</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/673070/ss_10691e5c30b4d89bee8474a9658a49268482657d.600x338.jpg?t=1512370606</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/673070/ss_fb2bcec30743856a7a74738b143f2e398263c9ec.600x338.jpg?t=1512370606</string>
+			<string>FoAQZ1eImE8</string>
+		</array>
+		<key>Note</key>
+		<string>Hi, we are the developers of &quot;Deadly Hunter VR&quot; an Archery Game we released earlier this year. It&apos;s free and very positive, so be sure to check it out. 
+
+With &quot;Deadly Hunter VR&quot; we gained a deep insight into VR development. We learned a lot while making it and we want to use our skills in our next project:
+The Ranger: Lost Tribe
+
+It is an Action RPG with focus on real time fights and exploring. Now the content of the game is just part of the full version, but it offers over four (4) hours’ worth of glorious gaming experience and will give you a good challenge.
+
+You will start at the Base Camp were you can play around with Sword, Crossbow, Bow, Shield and Spear. Once you leave the Camp you will only have your Sword and your Shild and it is up to you to find the other ones.
+
+Besides of the standard sword fighting mechanism we also included stealth kills and dismemberment. On top of it you can also enchant your weapon with your found recources. We also support different locomotion styles.
+
+We basically opened up for you a big area for you to explore. You may stumble across some things that you can&apos;t use yet because they belong to the story we have planned.
+
+You can help to make &quot;The Ranger: Lost Tribes&quot; an awesome game. Simply download our demo an play it. Write us what you think about it in the discussions. Any suggestions, freature requests and feedback in general is very valuble to us in this current state.
+
+Key features: 
+- huge environment for you to explore
+- save feature (checkpoints)
+- you decide how you approach the enemys
+- different weapons
+- stealth kills
+- dismemberment
+- different locomotion options
+- enchant feature</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/673070/The_Ranger_Lost_Tribe/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Raw Data</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/436320/header.jpg?t=1508273149</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/436320/ss_74d89ad4d4e47c277f380dc4cd2da1c94249afba.600x338.jpg?t=1508273149</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/436320/ss_bb23dfffc90a1abc1277d337a26fe88e4fe12117.600x338.jpg?t=1508273149</string>
+			<string>_R_lzYpDZmw</string>
+		</array>
+		<key>Note</key>
+		<string>Neo-Shinjuku - 2271. The massive and seemingly benevolent Eden Corporation owns the world. The elite hacker resistance movement SyndiK8 has unearthed the sinister reality behind Eden Corp’s newest line of robotic products. As one of SyndiK8’s elite operatives, your mission is straightforward: infiltrate Eden Tower, steal as much Raw Data as possible, and get out alive--bringing Eden Corp down in your wake. 
+
+However, as the secrets behind Chairman Shiro’s new “Promotion” program becomes clear, the reality gets much more complicated. Does it really grant immortality? What is Eden truly collecting? It seems that Eden’s corporate veneer may be just a thin facade for something much, much worse.
+
+Built from the ground up for virtual reality, Raw Data’s action combat gameplay, intuitive controls, challenging enemies, and sci-fi atmosphere will completely immerse you within the surreal environments of Eden Corp. Go solo—or team up with a friend—and become the adrenaline-charged heroes of your own futuristic technothriller. You will put your wits, boldness, and endurance to the test.
+
+Active VR gameplay turns you into a controller, with instant reflex access to an arsenal of advanced weapons and cutting-edge nanotech powers. Shared spaces with avatars and motion tracking encourage players to physically communicate through body language and environment interaction.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/436320/Raw_Data/
+</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Ready Player One: OASIS beta</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/779650/header.jpg?t=1526536825</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/779650/ss_8de14c9dfcd37853a3023d0ae5802dff47a8b67c.600x338.jpg?t=1526536825</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/779650/ss_dc5d2ff044544117abf6c3c2f345b10f6f4d7fb4.600x338.jpg?t=1526536825</string>
+			<string>SS_wlOnDo7Q</string>
+		</array>
+		<key>Note</key>
+		<string>The OASIS beta is inspired by the immersive virtual universe the OASIS from the film Ready Player One, which is set in the year 2045. In the Oasis beta’s ever-expanding universe, players are able to explore, compete in, and launch multiple VR experiences using their own custom avatars. Global leaderboards track the performance of all players as they earn points (coins) throughout the following experiences: Rise of the Gunters, Battle for the OASIS, Gauntlet and Smash.
+
+Gauntlet - Navigate through a seemingly endless dungeon while the undead seek to destroy you. Collecting gold will improve your score and eating food will restore your health, but only your bow skills will ensure that you make it our alive. (Developed by Directive Games)
+Battle for the OASIS - Help to save the OASIS by defeating waves of IOI Sixers. Advance through the trenches of Planet Doom towards the snowy planes that surround Anorak’s Castle. With an arsenal of potent firepower, you must stop the Sixers from controlling the fate of the OASIS. (Developed by Steel Wool Studios)
+Rise of the Gunters - Fight against a nearly invincible army of highly trained IOI Sixers alone OR with up to two of your friends! Proceed with caution as you defeat Sixers, collect their coins, find power ups and survive a merciless onslaught of hyper-explosive kinetic action for as long as you can survive. The OASIS is yours. Take it back from IOI by yourself or with up to two fellow Gunters! (Developed by Drifter Entertainment Inc.)
+Smash - Enhance your hand and eye coordination in this nod to James Halliday’s favorite 80&apos;s arcade games.
+Fracture - Heighten your spatial awareness and reflexes in this throwback to 80&apos;s brick smasher games re-imagined in VR.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/779650/Ready_Player_One_OASIS_beta/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Realities</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/452710/header.jpg?t=1534664558</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/452710/ss_7ffa541d7dd3c231d7929f2fc1e6cdaa8866b65e.600x338.jpg?t=1534664558</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/452710/ss_fda20a872449cd1591868b2ad4e616b7db9f3d27.600x338.jpg?t=1534664558</string>
+			<string>-mmNLfK5iDk</string>
+		</array>
+		<key>Note</key>
+		<string>Explore places that were out of reach before
+Realities brings real world locations into VR - interactive &amp; with stunning photo-realism using photogrammetry. Too many amazing sites are too far away, too expensive to get to, closed off to the general public or too dangerous to visit. Explore those places and discover their stories.
+
+Walk through the desolate vastness of Death Valley. Explore the eerie abandonned hospital Beelitz Heilstätten in the former GDR. Marvel at the amazing architecture of one of the largest cathedrals of the world, the Cologne Cathedral. Feel the confinement of a cell in Alcatraz. Set foot inside the ruins of an 800 year old Staufer castle.
+
+Realities is regularly updated with new locations!
+
+Exploring is possible with the HTC Vive &amp; the Oculus Rift</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/452710/Realities/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Rec Room</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/471710/header.jpg?t=1537577218</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/471710/ss_ad5396f3591d15f9b10ab6bc2e05bc205d30fc4e.600x338.jpg?t=1537577218</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/471710/ss_32f556b5d6f5acd0abdd2d3f3e6a852b9ba0d5a0.600x338.jpg?t=1537577218</string>
+			<string>6kl9gqv9t_I</string>
+		</array>
+		<key>Note</key>
+		<string>Rec Room is the best place to hang out with friends from all around the world! Play intense multiplayer games like Paintball, Laser Tag, Quest, and Rec Royale, or just chill with friends in the park. There are thousands of player-created game and event rooms for you to discover, with new ones added daily. You can even build your own rooms with your friends. Rec Room is cross platform and free, so come and join the fun!</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/471710/Rec_Room/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Regenesis Arcade Lite</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/642000/header.jpg?t=1537457943</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/642000/ss_6ae5f7728f278c38748d005c13407d5d44822f54.600x338.jpg?t=1537457943</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/642000/ss_6ae5f7728f278c38748d005c13407d5d44822f54.600x338.jpg?t=1537457943</string>
+			<string>MsaYwxjJwKo</string>
+		</array>
+		<key>Note</key>
+		<string>ERADICATE MACHINES. SAVE EARTH.
+Jump into the middle of the action in Regenesis Arcade Lite, the VR sci-fi shooter set in dystopian future ran by machines. Select one of two locomotion modes (free movement or teleport) and choose from variety of weapons, one for each hand, creating powerful synergies using perks to take the fight to machines.
+
+Most of game’s content will be a bit different every time you play due to a random generation mechanism.
+
+WEAPONS &amp; UPGRADES: INSTRUMENTS OF DESTRUCTION
+Collect weapons from each of three categories, that can be upgraded for maximized firepower. From gravity gun, through minigun, shotgun to powerful rocket launcher and wavegun, every weapon comes with its own strengths and weaknesses you need to consider while in the heat of the combat.
+
+KNOW YOUR ENEMY
+Fighting the deadly killing machines will not be easy. Coming from all directions, covering both ground and air, each enemy requires different tactical approach. Some will activate shields that either deflect or absorb damage, others will dodge swiftly every shot coming at them or make a kamikaze run right into your face. Do not underestimate your opponent no matter how small it might be!
+
+THE WAR THEATER
+In Regenesis Arcade Lite, you will battle through 8 detailed maps in campaign mode (Lite version allow to play first map only), ranging from futuristic cities, through forests to atomic wastelands, in different weather conditions, including a snowy blizzard!
+
+Discover and explore each map’s enemies and weapons drops in order to gain tactical advantage! After you finish the campaign you will continue in game+ mode, that will increase the difficulty and enable all types of enemies and unique weapons to be spawned in each level.
+
+After you unlock a level, you can start campaign from any point you want, getting faster to the further part of the game but not having all the goodies you might have collected if you’d start from the beginning. It’s up to you to either save your time grinding or prepare yourself better for the onslaught!
+However, as the secrets behind Chairman Shiro’s new “Promotion” program becomes clear, the reality gets much more complicated. Does it really grant immortality? What is Eden truly collecting? It seems that Eden’s corporate veneer may be just a thin facade for something much, much worse.
+
+Built from the ground up for virtual reality, Raw Data’s action combat gameplay, intuitive controls, challenging enemies, and sci-fi atmosphere will completely immerse you within the surreal environments of Eden Corp. Go solo—or team up with a friend—and become the adrenaline-charged heroes of your own futuristic technothriller. You will put your wits, boldness, and endurance to the test.
+
+Active VR gameplay turns you into a controller, with instant reflex access to an arsenal of advanced weapons and cutting-edge nanotech powers. Shared spaces with avatars and motion tracking encourage players to physically communicate through body language and environment interaction.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/642000/Regenesis_Arcade_Lite/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Rick and Morty: Virtual Rick-ality</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/469610/header.jpg?t=1510772114</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/469610/ss_6f25a5fe0e92f12f881798a2d3d131ba4c154f18.600x338.jpg?t=1510772114</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/469610/ss_8a61e1b94aee1b6450e7dc073f0bc011a4fd4257.600x338.jpg?t=1510772114</string>
+			<string>ZsCGXcpa3Qw</string>
+		</array>
+		<key>Note</key>
+		<string>Rick and Morty have teleported into your living room for a cutting-edge VR adventure from Adult Swim Games and Owlchemy Labs (Job Simulator). Play as a Morty clone as you explore Rick&apos;s garage, the Smith household, and alien worlds.
+
+Experience life as a clone of Morty and all the trauma that comes with it. Step through portals to strange worlds, help Rick with his bizarre experiments, and use your hands in VR to pick up and play in an interaction-filled 3D Rick-ality. Follow Rick&apos;s directions (or don&apos;t!) to solve puzzles and complete missions in this fully voice acted adventure.
+
+Features:
+-It&apos;s your favorite 2D characters in 3D. It&apos;s RICK AND MORTY VR! They&apos;re 3D now!
+-Probe, prod, throw, and smash iconic items like the Plumbus.
+-Also, it&apos;s got this thing!
+-Teleport around rooms and walk through portals.
+-No really! You walk with your actual feet through virtual portals!
+-Get yelled at by Rick, and question your own self worth.
+-Smack Rick in the face.
+-Real fake doors!</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/469610/Rick_and_Morty_Virtual_Rickality/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Russian VR Coasters</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/504100/header.jpg?t=1511112871</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_4b1a32529644b53aa0aa75f32fbc50d6b546b230.600x338.jpg?t=1511112871</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_764fcab5f61591e03b77104a9354d8d7a0ca53d1.600x338.jpg?t=1511112871</string>
+			<string>yDi-PpV-gXc</string>
+		</array>
+		<key>Note</key>
+		<string>Русские Зомби Горки
+Экстремальные горки в городе, во время зомби апокалипсиса. Вас ждут головокружительные виражи, беспощадные кровожадные зомби и море бешеного адреналина!
+Русские Горки В Замке
+Прокатитесь с самой высокой башни замка, который возвышается над местной деревушкой. Вас ждут отвесный спуск и головокружительный трамплин!
+Русские Горки В Андах
+Вы промчитесь рядом с огромной пропастью, взлетите над высокогорной деревней и увидите восхитительные горные пейзажи!
+Русские Горки В Космосе
+Потрясающие горки в глубинах бесконечного космоса! Огромное пространство, восхитительная атмосфера и крутые виражи!</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/504100/Russian_VR_Coasters/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>#SelfieTennis</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/392190/header.jpg?t=1514810986</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/392190/ss_10d9fa339c56cff60047360461ab13feef6c00eb.600x338.jpg?t=1514810986</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/392190/ss_635489cb3f07c7795fd4305efe8d091e20a74645.600x338.jpg?t=1514810986</string>
+			<string>XR_pA9Ig14E</string>
+		</array>
+		<key>Note</key>
+		<string>#SelfieTennis is much more than a tennis game with a really nice physics simulation and great AI, accessible to players of ALL ages and with ZERO motion sickness. 
+
+You play against yourself on a tennis court in the clouds, with Ball People surrounding you and messing around together with you. Their AI can be described as highly sophisticated, funny, stupid, and other things. 
+
+For hardcore tennis fans, we made the best physics system that we could, and tennis pros have confirmed that it is indeed a pretty good simulation, but without all the hassles of real life, such as running after the balls or not shooting at other people. 
+
+For people who enjoy playing in their own rhythm and not following rules, the game has a perfect mix of funky sandboxy upgrades such as: #lightsaber, #violins, #selfies, #bow and #arrows for that #archery mood, #ponycorn to let you move around on horseback (stick), and #hearts to break (to get more upgrades). 
+
+We now support the HTC Racket tracker peripheral! Start the game with it activated and you can play two-handed (or dual-wield rackets) for an intense workout - the Ball People will take care of your balls, you just have to spank them!
+
+Instructions
+You use the triggers to spawn the ball(s) and racket. Double-click on racket trigger to lock it. You can change controller hands on the small button above the touchpad. Knock #BallPeople off the court and take their hearts to enter #HeartAttack mode (time-limited upgrades).
+
+#SelfieStick is on ball controller&apos;s grips and you can record a GIF and tweet it out via the touchpad - log on to your Twitter profile via the computer screen when you start the game. Double-click grips to lock it in your hand. SAFETY IS KING: Controllers can fly, SO WEAR WRIST STRAPS! </string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/392190/SelfieTennis/?snr=1_7_7_151_150_1is</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Senza Peso</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/496190/header.jpg?t=1478014109</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/496190/ss_5d676c0702d3b72cbca32f838d09b7fc46d4735f.600x338.jpg?t=1478014109</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/496190/ss_3f414d3b49c248ff5783d44a5e1afd1860d8fbec.600x338.jpg?t=1478014109</string>
+			<string>WnubSWthzh0</string>
+		</array>
+		<key>Note</key>
+		<string>As a soul transitioning into the afterlife, Senza Peso shepherds you on a spiritual journey through a beautiful and foreboding dark world of lost souls and redemption. 
+
+In this VR adaptation of the short film mini-opera by Cory Strassburger &amp; Alain Vasquez, you become the protagonist and personally experience the metamorphosis from death to eternity.
+
+This is an enhanced re-release of the highly regarded 2014 VR experience that has been a go-to showpiece for many in the VR community.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/496190/Senza_Peso/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Serious Sam VR: The Last Hope</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/465240/header.jpg?t=1524155816</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/465240/ss_49c32b3daa0ad9b34686a79e4b3da3165eb691d7.600x338.jpg?t=1524155816</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/465240/ss_01402ea9bca9025a876fcd53531305aebeedcd06.600x338.jpg?t=1524155816</string>
+			<string>BnYorJy797I</string>
+		</array>
+		<key>Note</key>
+		<string>Вы когда-нибудь задумывались о том, каково быть в шкуре Крутого Сэма? Вы когда-нибудь хотели отвесить люлей прихвостням Ментала собственными руками? Что же, время пришло! Возьмите на себя роль величайшего героя Армии Обороны Земли в уникальной VR-симуляции, основанной на журнальных записях Сэма Стоуна в бытность его службы капитаном боевого эсминца &quot;&quot;Саратога&quot;&quot;. Пройдите через тот ад, который сделал капитана Стоуна легендой.
+Ключевые особенности:
+Тонны врагов – Орды атакующих врагов всегда были визитной карточкой серии, и Serious Sam: The Last Hope по-прежнему позволяет устраивать на экране настоящее безумие, благодаря серьезной мощи движка Serious Engine 2017. 
+Тонны оружия – Спаренные миниганы, автоматы Томпсона, тяжелые лазерные пушки, дробовики, и целый ассортимент других стволов. Ах, да, еще и с бензопилой впридачу! Используйте целых 16 различных видов оружия, включая ракетницу, ну и самую главную игрушку Сэма для отстрела нечисти - миниган. А для приличия - меч и щит.
+Скачки по планетам – Посетите пять уникальных планет, и сразитесь посреди коварных египетских песков, впотьмах под древними руинами или на поверхности Пладеона, давно заброшенного сердца великой индустриальной цивилизации.
+Дик тоже вернулся! - Неизменный голос Крутого Сэма, Джон Джей Дик, сыплет своими колкими шутками так же быстро, как вы изничтожаете врагов.
+Поплачьтесь своей Мумичке – Уничтожьте могущественных слуг Ментала, включая Нечестивую Космическую Мумию из Гаммы Пегаса, громадную бессмертную тварь, возрожденную с помощью темной магии - опасную настолько же, насколько и вонючую! И это лишь первый босс, коих всего пять - каждый из них смертоноснее и ужаснее предыдущих.
+Совершенствуйтесь - Улучшайте себя и свой арсенал с помощью 36 бонусов и 190 оружейных улучшений, открываемых во время похождений Сэма.
+Танцуйте вдвоем - Проходите уровни с другом, выбирая между Крутым Сэмом или Крутышкой Сэмми в качестве игрового персонажа.
+Случайно генерируемый геймплей! - Эта новая игровая опция разделена на три различных режима. Уничтожайте орды случайных врагов с уникальным составом при каждой новой игре в безбашенном режиме Арена. Сражайтесь с бесконечными ордами врагов, оставаясь в живых как можно дольше в режиме Бесконечная волна, или поставьте свое мягкое место на кон в Ежедневных испытаниях, проходя на арене дня те же испытания, что и другие игроки по всему миру.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/465240/Serious_Sam_VR_The_Last_Hope/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Snow Fortress</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/468740/header.jpg?t=1536792450</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/468740/ss_7fdac85bf8e58cee339eaec27c63a41bf9f56e96.600x338.jpg?t=1536792450</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/468740/ss_481cdf58749ea2b5f3749c1472b67d088ab302f9.600x338.jpg?t=1536792450</string>
+			<string>GioqKYULsfw</string>
+		</array>
+		<key>Note</key>
+		<string>Snow Fortress is a room-scale Virtual Reality snow fort building &amp; battle game. Relive your childhood by building snow forts as you prepare for epic snowball fights! Unlock tools to protect your fort and deliver a fury of snowballs at your opponents!
+
+Build your snow forts and destroy the snowman&apos;s fort in 20 unique levels
+Throw snowballs or use your slingshot to do some real damage
+Build and maintain a fort while protecting it against waves of attacking snowmen in Survival Mode
+Play against friends in online multiplayer
+Unlock a shield and other tools to protect yourself and your fort
+Compete in global leaderboards
+Build a miniature snow fortress and defend it by placing your own snowmen on it&apos;s walls
+
+Snow Fortress is created from the ground up for room-scale VR and supports both HTC Vive and Oculus Rift. It takes full advantage of tracked controllers to let you build the perfect snow fort ... and then watch it get trashed by an army of angry snowmen.
+
+Oculus Rift support requires touch controllers, but does not need full 360 room-scale, 2 forward facing cameras are sufficient.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/468740/Snow_Fortress/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Space Pirate Trainer</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/418650/header.jpg?t=1526302310</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/418650/ss_14be0e6ffdef473986a5526f04c3c39ae8c17a51.600x338.jpg?t=1526302310</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/418650/ss_ff94d438a09d6bd4ae008fb3ba5a831e7d568c8d.600x338.jpg?t=1526302310</string>
+			<string>3rv82Lwi64M</string>
+		</array>
+		<key>Note</key>
+		<string>Remember those awesome classic arcade cabinets? Imagine if those were immersive... Space Pirate Trainer puts you in one of those; fighting off relentless waves of droids with all the weapons and gadgets you would ever need as a space pirate. You better dodge some of those incoming lasers though, since just using your shields won&apos;t get you in the top rankings. Pick up your blasters, put on your sneakers, and dance your way into the Space Pirate Trainer hall of fame.
+
+Space Pirate Trainer is the official trainer for wannabe space pirates in VR. Launched as one of the first titles for SteamVR/HTC Vive, Oculus Touch and Windows Mixed Reality, Space Pirate Trainer has been under continuous development on a mission to refine its gameplay and improve the overall experience. It has been widely used as one of the go-to demos for VR.
+
+No real droids where harmed during the creation of this game. 
+Use your straps and stay in your VR area to make sure no humans will be harmed.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/418650/Space_Pirate_Trainer/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Spider-Man: Homecoming - Virtual Reality Experience</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/645480/header.jpg?t=1498846386</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/645480/ss_a9c7d3ac424018a43a4d23258c0793b4eddaa484.600x338.jpg?t=1498846386</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/645480/ss_ae67066b5b387b28a3fcdc4ea9bbf2007a36f168.600x338.jpg?t=1498846386</string>
+			<string>XMb8lXuIio0</string>
+		</array>
+		<key>Note</key>
+		<string>For the first time, you can suit up as Spider-Man and see what it’s like to be the world’s favorite superhero. Learn the ins and outs of your brand new Stark Industries upgraded web shooters and master different web types as you race to complete fast-paced targeting trials – but you’ll have to learn quickly… The Vulture is on the loose and coming for you. Sling high above the city in a dramatic confrontation before pursuing Spidey&apos;s deadliest enemy.
+
+Based on the all-new 2017 film, the Spider-Man Homecoming VR Experience is a fun and thrilling first-person look inside the world of your friendly neighborhood Spider-Man.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/645480/SpiderMan_Homecoming__Virtual_Reality_Experience/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Star Wars: Droid Repair Bay</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/726910/header.jpg?t=1512568321</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/726910/ss_0a0d9538e907f3d6306615fa9941f360654a0f66.600x338.jpg?t=1512568321</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/726910/ss_ca640eb89f914e684c585751e762ba62789b84f2.600x338.jpg?t=1512568321</string>
+			<string>1NTWFPE1fqQ</string>
+		</array>
+		<key>Note</key>
+		<string>Star Wars™: Droid Repair Bay – Astro-Mechanic for the Resistance will be available for free download starting December 6 for the HTC Vive on Steam and Viveport and Samsung Gear on the Oculus store. 
+In Star Wars: Droid Repair Bay, Poe Dameron&apos;s sidekick needs your help. Repair BB-8 and his astromech droid friends, each with their own unique personalities, so they can roll back into the fight against the First Order. Aboard General Leia’s ship in the depths of space, you’ll need to work quickly before battle breaks loose just outside the droid repair bay.
+
+Star Wars: Droid Repair Bay, created by ILMxLAB, is the official virtual reality story connected to Star Wars: The Last Jedi. 
+
+Powered by Nissan. See the VR experience now at select dealerships now: http://NissanUSA.com/StarWars
+
+Star Wars: The Last Jedi tickets are on sale now http://fandango.com/lastjedi. See it in theaters December 15th. </string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/726910/Star_Wars_Droid_Repair_Bay/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>SUPERHOT VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/617830/header.jpg?t=1541527888</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/617830/ss_404fd9fd4334816a53fc671b7f8630e30a68f8d5.600x338.jpg?t=1541527888</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/617830/ss_617ac5ced2d2ba1502f4e84f79dae9f3c342e5b6.600x338.jpg?t=1541527888</string>
+			<string>pzG7Wc6mbwE</string>
+		</array>
+		<key>Note</key>
+		<string>SUPERHOT VR стирает границы между вдумчивой стратегией и безудержным безумием: это VR-шутер, где время движется только вместе с тобой. Здесь не будет восполняемой полоски здоровья. Не будет удачно разбросанных боеприпасов. Только ты — один против всех, с голыми руками. Выхватывай оружие у падающих врагов, стреляй, руби и уворачивайся от пуль, как Нео. 
+
+SUPERHOT VR — лауреат множества премий «VR-игра года»; это полностью переработанная версия игры, созданная специально для VR и управления движением. Результат практически трех лет напряженного труда, SUPERHOT VR дает тебе возможность телом и разумом погрузиться в мир невероятного экшена SUPERHOT. А теперь сделать это можно и на VR headset.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/617830/SUPERHOT_VR/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sweet Escape VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/462480/header.jpg?t=1532377565</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/462480/ss_eb85e18afe52788bc61fa976728d7ec4666ea062.600x338.jpg?t=1532377565</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/462480/ss_face2d7ef17c5f7633b99699d9289de53dfb9bd9.600x338.jpg?t=1532377565</string>
+			<string>tJHZrgucBgk</string>
+		</array>
+		<key>Note</key>
+		<string>You and your friends are fighting to escape this treacherous candy land. Reach the lollipop to win in this active VR game experience. Climb chewy gumdrops, monkeybar over great heights, jump from candy bar to candy bar, and be careful not to lose your grip. Falling to your doom is a real sensation; your survival is in your hands! 
+
+Competitive Multiplayer
+Vive Room Scale
+Full Motion Control
+Social Interaction
+Engage in a new dynamic in virtual reality gaming by communicating with other players through simple and effective head and hand gestures.
+Physical Interaction 
+Because you’re swinging from high places, your body feels the sensation of heights and falling.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/462480/Sweet_Escape_VR/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>theBlu</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/451520/header.jpg?t=1517617172</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/451520/ss_701c2c2c63070afc92bd950d90011463e2384b52.600x338.jpg?t=1517617172</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/451520/ss_77dee3ae7b3e32733bc9164a05b71db0134a5047.600x338.jpg?t=1517617172</string>
+			<string>A8XIYjNoovo</string>
+		</array>
+		<key>Note</key>
+		<string>theBlu: is a deeply immersive VR series that allows audiences to experience the wonder and majesty of the ocean through different habitats and come face to face with some of the most awe inspiring species on the planet. The series, which is directed by Jake Rowell (Call of Duty, Final Fantasy, Superman Returns), has been designed as beautiful moments in passing or a collection of memories that powerfully tap into the vast potential of VR. The debut episode, featuring an incredible close encounter with an 80 foot whale, is already recognized as one the most iconic room scale VR experiences to date (a Sundance Film Festival 2016 selection). Additional episodes in this bundle take place on a teeming coral reef and in the very deepest region of the ocean. Gain access to new modes of discovery in each episode. Slow time and capture pictures in Inspector Mode, and return to a meditative version of each location in Ambient Mode.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/451520/theBlu/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>The Thrill of the Fight - VR Boxing</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/494150/header.jpg?t=1540491730</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/494150/ss_5f23c083c540acd33e54d3524b3ff4c83ae45572.600x338.jpg?t=1540491730</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/494150/ss_5f23c083c540acd33e54d3524b3ff4c83ae45572.600x338.jpg?t=1540491730</string>
+			<string>ivebsS4-k8E</string>
+		</array>
+		<key>Note</key>
+		<string>Room scale: The game is currently room scale only with a minimum space requirement of 2m front-to-back. If playing with SteamVR, please make sure you have gone through setup in &quot;room scale&quot; mode.
+
+Oculus Rift users: Native Oculus support is included. Please ensure your Guardian boundaries are configured properly. For best results, you&apos;ll need 2m of front-to-back space.
+
+Windows MR users: The Thrill of the Fight is compatible with WMR headsets and controllers, but holding your controllers near your face to block causes tracking loss due to the way WMR controllers are tracked. Because of this, I have not marked support for Windows Mixed Reality on the store page. If you still wish to play, please make sure you have configured your headset properly for room scale and have 2m of space front-to-back.
+
+The Thrill of the Fight is still under active development. Future improvements include more polish, new opponents, and more.
+
+The Thrill of the Fight is a boxing game designed specifically for VR. Enter a virtual gym and battle unique challengers with their own boxing styles and techniques. Use timing and skill to land the knockout blow. Evade punches, land jabs, and block blows to become the king of the ring.
+
+The Thrill of the Fight is best described as a &quot;semi-sim&quot; with some simplified or unrealistic mechanics for the sake of fun and straightforward game play or to accommodate the limits of current VR technology. Mechanics are realistic where possible but the game is not guaranteed to be a fully accurate recreation of real boxing.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/494150/The_Thrill_of_the_Fight__VR_Boxing/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Tilt Brush</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/327140/header.jpg?t=1533672778</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/327140/ss_1f7898539a580dd81642b3f4111bf5c85875fcf6.600x338.jpg?t=1533672778</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/327140/ss_91ec266074cb9a2f9f1718effaae4b58945c5f68.600x338.jpg?t=1533672778</string>
+			<string>TckqNdrdbgk</string>
+		</array>
+		<key>Note</key>
+		<string>Tilt Brush lets you paint in 3D space with virtual reality. Unleash your creativity with three-dimensional brush strokes, stars, light, and even fire. Your room is your canvas. Your palette is your imagination. The possibilities are endless.
+Tilt Brush lets you paint in 3D space with virtual reality. Unleash your creativity with three-dimensional brush strokes, stars, light, and even fire. Your room is your canvas. Your palette is your imagination. The possibilities are endless.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/327140/Tilt_Brush/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Unbreakable Vr Runner</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/494310/header.jpg?t=1536083362</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/494310/ss_bbefabe7b93380e6e1f273134f05f69f10f6f291.600x338.jpg?t=1536083362</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/494310/ss_9e4cfbfda2f890e8fa6ce641c2a161e627cab5bf.600x338.jpg?t=1536083362</string>
+			<string>CfYdGpXVrQY</string>
+		</array>
+		<key>Note</key>
+		<string>Unbreakable Vr Runner is designed to exercise in virtual reality in fun way. The game have 4 different levels with its own features. Each level has one simple rule : Dodge obstacels and collect coins, candys or additional scores. You can play this on 1.5m x 2m roomscale. Game have also ComfortCube in settings and Level1 have own alarm system to warning to you if you are too far from center.
+
+Available for Arcades on SpringboardVR</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/494310/Unbreakable_Vr_Runner/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Vanishing Realms™</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/322770/header.jpg?t=1515623742</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/322770/ss_b0905b755e4734e715512be1933426ede9fa46d3.600x338.jpg?t=1515623742</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/322770/ss_675d83b222745aa2685fa5f6aba23fbf0330cf36.600x338.jpg?t=1515623742</string>
+			<string>4nr98lHZj7I</string>
+		</array>
+		<key>Note</key>
+		<string>Vanishing Realms: Rite of Steel is an immersive Role Playing Game designed from the ground up for Virtual Reality play. Use one-to-one motion controls and movement so that you are fully in control of combat. To swing, duck and block, you don&apos;t hit a button, but physically move to perform these actions as if you were there - because you are! 
+
+Treasure chests, weapon shops, a horde of undead foes, mystic writings, banished gods, lost artifacts, ancient tombs and moonlit forest - it&apos;s all here waiting to be discovered in a beautifully hand-crafted VR realm. 
+
+Battle life-sized monsters in stunning, face-to-face melee and magical combat. Hold weapons directly in your hands, learn to block enemy strikes, seek openings in their armor and defenses and strike back. The longer you play Vanishing Realms, the more you&apos;ll hone your physical skills. You&apos;ll take on more powerful and advanced enemies as you move deeper into the world.
+Explore, Discover, Collect, Solve, Play. Directly interact and move freely through a rich and varied fantasy world. Vanishing Realms combines the long tradition of hand-crafted game design with the intuitive and immersive experiences made possible through Virtual Reality and hand-held tracked controllers. 
+Surround yourself with Adventure. Pause to take in the moonlit vista before you. Rest beneath a gnarled apple tree - it&apos;s good to see the night sky again. How long have you been fighting and exploring in this place? Rummage in your backpack, take a few bites of bread and cheese, drink a healing draught, think of all you&apos;ve seen and...is something moving over there...on the tree line, beyond the rock outcropping?</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/322770/Vanishing_Realms/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Voyage Senki VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/747210/header.jpg?t=1527590392</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/747210/ss_113e57cbc8c1ec110c0ddcec6aa3fcfdb5519372.600x338.jpg?t=1527590392</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/747210/ss_fe2c6c9c0ae680cd2cc0caa57e01411c3d8e8bac.600x338.jpg?t=1527590392</string>
+			<string>ZsJ9blYZFv4</string>
+		</array>
+		<key>Note</key>
+		<string>Voyage Senki is one VR online game. The game choose sailing and sea warfare as the theme. Players in game will build the battle ships, recruit sailors and explore the unknown world to set up a new country of their own. The present version includes three contents: SLG model with the island raid, PVP model for 3 vs 3 team players, and story model demo. 
+
+PVE
+Island raid
+Player can send fleet, hero, and troops to raid the target island. 
+Goal: to destroy the base of privates or other players. You need to steer your battle ship and head the troops to attack the defence and base, try to destroy as many target as possible to get more loot or rewards in game</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/747210/Voyage_Senki_VR__VR/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>The VR Museum of Fine Art</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/515020/header.jpg?t=1486095615</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/515020/ss_fc660983367a8f9ed1b0e078190c0542e5bcdebe.600x338.jpg?t=1486095615</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/515020/ss_c63ae68ef94a4339a3561c2ee7a4c9f168570e22.600x338.jpg?t=1486095615</string>
+			<string>7JhkKqwt-ME</string>
+		</array>
+		<key>Note</key>
+		<string>Welcome to The VR Museum of Fine Art, Steam&apos;s finest art gallery.
+
+Depending on who you ask, of course.
+
+If you&apos;ve been training to be a space pirate and building fantastical contraptions all day, the Museum is your ticket to a well-deserved break. Surround yourself with 1:1 scale sculptures and paintings, and we won&apos;t tell anybody if you touch the merchandise! No rope barriers or glass walls here. Feel free to explore the artwork however you see fit. Roomscale VR lets you walk around, duck under, and even hug the life-sized figures.
+
+The initial release of The VR Museum includes 15 high-fidelity sculptures, and more are coming. In addition, two famous paintings are included, scanned and rendered in crisp detail. In future releases, both collections of sculpture and paintings are sure to expand. The artwork is arranged thoughtfully into four exhibits, each with its own theme. 
+
+If you ever actually feel like learning something, informative holographic plaques are placed next to each piece of art. That does involve reading, though, and that&apos;s a lot of work.
+
+Tickets are free, drinks are temporarily non-existent, and the artwork is pristine. Enjoy!</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/515020/The_VR_Museum_of_Fine_Art/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>VRChat</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/438100/header.jpg?t=1515998953</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/438100/ss_01ecc28e50221a12a507dab0971a7034b0ae4f5c.600x338.jpg?t=1515998953</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/438100/ss_8c09335af6a60048387a2229e4d6f04ab3b1f821.600x338.jpg?t=1515998953</string>
+			<string>nGLcsSox1tM</string>
+		</array>
+		<key>Note</key>
+		<string>magine a world where anything is possible. Join a game of capture the flag in outer space. Share stories around a campfire while roasting marshmallows, then moments later experience a retro game of bowling with an alien and robot. In VRChat there is something around every corner that will delight, thanks to the power of true user generated content. Jump into hundreds of awe inspiring environments and meet unique avatars every day. Watch a movie on the moon. Ride the Titanic. Step into a new world every time you come online. In VRChat, you are one of us. Enjoy your stay.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/438100/VRChat/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>WackyMoles</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/525870/header.jpg?t=1481535959</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/525870/ss_cf6e9cae37960967408a05a91dab5682c08703da.600x338.jpg?t=1481535959</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/525870/ss_15e2685190c63ec8832fee9ce8c50b349a0b3050.600x338.jpg?t=1481535959</string>
+			<string>1vm2IT5NvtY</string>
+		</array>
+		<key>Note</key>
+		<string>Wacky Moles is VR casual game like the Whack-A-Mole. The legend of this town continues and more moles from the backyard also get involved in….
+The storyline of this game is that naughty moles often wander in the vegetable field of the backyard. In order to protect vegetables and fruits we laboriously planted, we have to raise up our hammer to fight against these naughty moles.
+
+How to Play:
+In the game, players attack all kinds of moles with the hammer. The player should eliminate moles as many as possible within a specific limited time, so as to obtain scores. Of course, don’t accidentally injure kind-hearted rabbits if you meet them. This is can not only make you lose HP, but also miss the chance to get gifts from them. Some moles will not allow themselves to be seized without putting up a fight. They will throw out all kinds of items to attack players. The player can move to avoid their attacks or block attacks with the hammer.
+There are a lot of props in the game. Players can pick up these props by hammer attack. Freezing props can freeze all objects, making the player easier to hit the target. Twinkling stars have full screen AoE skill. Once triggered, they can cause a lot of damage on moles within the scene. Watch out flying saucer props. Don’t carelessly pick up them, because they can turn your hammer into a smaller one to increase the game difficulty. Of course, there are also many other interesting props waiting for you to explore one by one!
+Game Features:
+Mini and Exaggerated Character Settings
+Rich Mole Varieties: ordinary mole, party mole, pilot mole and cowboy mole
+Immersive Experience that redefines Whack-A-Mole
+Rich Featured Gameplays such as gifts, props, dodge and block</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/525870/WackyMoles/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>War Robots VR: The Skirmish</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/672640/header.jpg?t=1537782911</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/672640/ss_f83df703a376fbd852cb324d9707a5729f8e54c3.600x338.jpg?t=1537782911</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/672640/ss_e6dea53052605382f89e996e77d3da37fb83c62f.600x338.jpg?t=1537782911</string>
+			<string>HensuZLc510</string>
+		</array>
+		<key>Note</key>
+		<string>War Robots VR: The Skirmish is a short, but highly immersive teaser-shooter in the universe of the War Robots franchise.
+
+Experience the dark atmosphere of a global never-ending war combined with the feeling of sitting in the cockpit of a giant robot, ready for anything that lies ahead.
+
+Take full control of your armed and dangerous robot and find out what brought you and your squadmate to a city torn by endless battles. 
+
+Features:
+- A unique atmosphere in the already established universe of War Robots
+- Fast-paced shooting mechanics
+- A very comfortable VR experience
+- Supports Oculus Rift and HTC Vive</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/672640/War_Robots_VR_The_Skirmish/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Water Bears VR</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/394130/header.jpg?t=1510934326</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/394130/ss_e15b7afa9073598aa131e6a803f1f1233055d237.600x338.jpg?t=1510934326</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/394130/ss_aac30328025afd7f849e30e90bb8706fdc9d8ad2.600x338.jpg?t=1510934326</string>
+			<string>LZkzpKlDM54</string>
+		</array>
+		<key>Note</key>
+		<string>Step into the Vive and use your own two hands to reroute, remix, and redirect water flows to free trapped water bears! Water Bears VR is the next evolution of Water Bears, winner of the 2015 Serious Play Awards “Best in Show” and the 2015 CTR “Editor’s Choice for Excellence in Design.”
+
+Each puzzle starts with sad water bears that are desperately in need of water. Help them by building and rebuilding water flows using an ever-increasing variety of pipes. Walk around the puzzles in real space, viewing them from all sides to get ideas. Manipulate myriad colors, test your spatial reasoning, and make the most of your limited resources. There are dozens of puzzles and an awful lot of thirsty water bears that need your help!</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/394130/Water_Bears_VR/</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Titans of Space 2.0</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/468820/header.jpg?t=1530815294</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/468820/ss_3926548555d79e4467f72aa43fd2e1ea3fcfaee1.600x338.jpg?t=1530815294</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/468820/ss_06d3bdd41712d69d651a288263c7e686c83790a3.600x338.jpg?t=1530815294</string>
+			<string>MV7af4pYue4</string>
+		</array>
+		<key>Note</key>
+		<string>Hang on to your cockpit seat! Go for a ride through this authentic miniature Solar System, and then squint your eyes in the intense light of a few of the largest known stars. Enjoy curated photos and facts along the way, at your own pace. Great care has been taken to ensure a comfortable and thrilling experience. 
+
+Features: 
+* Native support for HTC Vive, and Oculus Rift (Touch, Remote, Gamepad).
+* Self-paced guided tour, with an optional comfort mode. 
+* Standing vs Sitting support.
+* Accurate visuals and facts for over 40 celestial bodies.
+* Enhanced 3D effect - reduced scale makes it easy to compare sizes.
+* Engaging soundtrack 
+* Side-by-Side Comparisons.
+* Gravity Probe.
+* Real Distance View.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/468820/Titans_of_Space_20/?snr=1_7_7_151_150_1</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Travel VR
+</string>
+		<key>Category</key>
+		<string>vr</string>
+		<key>Image</key>
+		<array>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/730090/header.jpg?t=1519962126</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/730090/ss_758d3554be5b4866ada0200c5ab36c98d42d85ec.600x338.jpg?t=1519962126</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/730090/ss_f259ee51271967878d8066839b4ca6403b221db6.600x338.jpg?t=1519962126</string>
+			<string>https://steamcdn-a.akamaihd.net/steam/apps/730090/ss_b5b6728792b3fb867bb7b746652ae6985639e9e0.600x338.jpg?t=1519962126</string>
+		</array>
+		<key>Note</key>
+		<string>Super fast internet
+Please note that this app requires a really fast internet connection. All the videos are streamed in 4K resolution.
+
+“If we were meant to stay in one place, we would have roots rather than feet!”
+
+My friend Damia recently went on a trip around the world. She started in Australia and went around China, Nepal, India, South Korea, Indonesia and few other countries.
+
+She learned about people&apos;s struggles, experienced life with the locals and learned about their culture. Seeing her Facebook posts inspired me. I was pumped to do the same!
+
+The only problem was that all I had was 100 bucks in my bank account and a Vive.
+That’s why I decided to build an app which would let me travel in VR.
+
+Presenting Travel VR, the best way to travel.
+
+Bon voyage!
+
+Gameplay
+- Try moving your head around to highlight different countries.
+- To spin the earth, hold down the trigger on your right hand and move it. 
+- To make the earth bigger, press down the grip button on both controllers and spread your hands apart.
+- Look at the country you want to travel to. When the country is highlighted, press the left touchpad to travel.</string>
+		<key>URL</key>
+		<string>https://store.steampowered.com/app/730090/Travel_VR/</string>
+	</dict>
+</array>
+</plist>

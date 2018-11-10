@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  GameCatalogs
+
+  Created by Dmitriy Korkin on 09/11/2018.
+  Copyright © 2018 Дмитрий Евсюков. All rights reserved.
+*/
+
+"category" = "Категория";
+"link" = "Ссылка на ";
+"tile" = "Плитка";
+"table" = "Таблица";
